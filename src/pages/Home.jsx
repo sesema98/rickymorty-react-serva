@@ -19,8 +19,8 @@ export default function Home() {
   return (
     <section className="container py-4">
       <div className="text-center mb-4">
-        <h1>Rick & Morty Universe</h1>
-        <p className="text-muted">Explora personajes del multiverso</p>
+        <h1>Rick & Morty lista de personajes</h1>
+        <p className="text-muted">Explora personajes del multiverso de Rick & Morty </p>
       </div>
 
       {loading ? (
