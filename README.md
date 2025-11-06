@@ -101,6 +101,19 @@ Scripts disponibles
 -npm run build      #Build de producción
 -npm run preview    #Servir build localmente
 
+------------------------------------------------------------
+IMAGENES RESULTADO
+------------------------------------------------------------
+<img width="1916" height="707" alt="image" src="https://github.com/user-attachments/assets/606ffb57-cb05-4d83-81d6-9e2933e841dc" />
+<img width="969" height="108" alt="image" src="https://github.com/user-attachments/assets/ef01092d-3f8e-4de7-bdc5-074f0834bc9f" />
+
+<img width="1643" height="926" alt="image" src="https://github.com/user-attachments/assets/c92b1944-1ef7-45be-8281-e116a2fba845" />
+<img width="637" height="534" alt="image" src="https://github.com/user-attachments/assets/9511cf12-397a-4903-bd57-4a3dc25214bc" />
+
+
+
+
+
 
 
 
