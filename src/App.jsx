@@ -1,14 +1,18 @@
 import { useState } from 'react'
 
 
-function App() {
-  const [count, setCount] = useState(0)
+export default function App() {
+  const fetchData = async () => {
+    const response = await fetch('https://rickandmortyapi.com/api/character');
+    const data = await response.json();
+    console.log('fetch test', data);
+  };
+
+  fetchData();
 
   return (
-    <>
-      Rick y morty
-    </>
-  )
+    <h1>Rick y Morty</h1>
+  );
 }
 
-export default App
+
