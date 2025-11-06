@@ -97,10 +97,10 @@ Historial de commits (resumen)
 ------------------------------------------------------------
 Scripts disponibles
 ------------------------------------------------------------
-npm run dev       # Desarrollo (Vite)
-npm run build     # Build de producción
-npm run preview   # Servir build localmente
-------------------------------------------------------------
+-npm run dev        #Desarrollo (Vite)
+-npm run build      #Build de producción
+-npm run preview    #Servir build localmente
+
 
 
 
