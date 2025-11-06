@@ -100,31 +100,6 @@ Scripts disponibles
 npm run dev       # Desarrollo (Vite)
 npm run build     # Build de producción
 npm run preview   # Servir build localmente
-
-------------------------------------------------------------
-Deploy (guía rápida)
-------------------------------------------------------------
-Opción A: Vercel
-1) Push a main en GitHub
-2) En Vercel: New Project → importar repo
-3) Framework: Vite (auto)
-4) Build: npm run build — Output: dist
-5) Deploy → coloca la URL en este README como ENLACE_DEPLOY
-
-Opción B: Netlify
-- Add new site → Import an existing project
-- Build: npm run build — Publish directory: dist
-
-------------------------------------------------------------
-Video (1–2 min)
-------------------------------------------------------------
-Debes mostrar:
-1) Clonar y npm install
-2) npm run dev y navegar "/" y "/entities"
-3) Señalar consumo de la API (Network o código del servicio)
-4) Abrir repo y deploy en el navegador
-(Coloca aquí el enlace: ENLACE_VIDEO)
-
 ------------------------------------------------------------
 Notas
 ------------------------------------------------------------
