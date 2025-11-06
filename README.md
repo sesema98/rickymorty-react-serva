@@ -101,11 +101,6 @@ npm run dev       # Desarrollo (Vite)
 npm run build     # Build de producción
 npm run preview   # Servir build localmente
 ------------------------------------------------------------
-Notas
-------------------------------------------------------------
-- Si quieres mostrar ubicaciones o episodios en "Entities", cambia el servicio a /location o /episode y muestra 3 propiedades (por ejemplo: name, type, dimension).
-- Mantén consistentes los mensajes de commit (paso a paso) para facilitar la corrección.
 
-<img width="1353" height="935" alt="image" src="https://github.com/user-attachments/assets/e8c7adf0-9f78-4fa4-8f95-0a2dce358d81" />
-<img width="1650" height="469" alt="image" src="https://github.com/user-attachments/assets/34e029af-eb2c-436a-8ac4-01a9d67090e1" />
+
 
